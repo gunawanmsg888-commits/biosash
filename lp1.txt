@@ -5,7 +5,9 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://biosash.com/sea-buckthorn-oil-capsule.html" rel="preconnect"/>
+<meta name="google-site-verification" content="f-VgpfiUgqMJ7mNV_pLXSX0F9YsvHVew_aLckz1g_XU" />
+<meta name="google-site-verification" content="bOT66vdNzg5Ar5pOeB-2KIzPI_l5uJoKHIUXbJNJW7M" />
+<link href="https://biosash.com/contact-us/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -13,7 +15,7 @@
 <title>KINGCOBRATOTO : Tatanan Baru Situs Toto & Slot Online Beratribut Resmi 2026</title>
 <meta name="title" content="KINGCOBRATOTO : Tatanan Baru Situs Toto & Slot Online Beratribut Resmi 2026">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+<link rel="canonical" href="https://biosash.com/contact-us/">
 <link rel="amphtml" href="https://gulaiaceh.us.com/biosash/">
 <link rel="alternate" hreflang="id-id" href="https://gulaiaceh.us.com/biosash/"/>
 <link rel="alternate" href="https://gulaiaceh.us.com/biosash/"/>
@@ -26,12 +28,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="KINGCOBRATOTO : Tatanan Baru Situs Toto & Slot Online Beratribut Resmi 2026">
 <meta name="twitter:description" content="KINGCOBRATOTO membawa konsep tatanan baru situs toto dan slot online yang memiliki atribut resmi 2026 dengan penyajian layanan ramah, akses permainan cepat, dan nyaman digunakan semua perangkat.">
-<meta name="twitter:url" content="https://biosash.com/sea-buckthorn-oil-capsule.html">
+<meta name="twitter:url" content="https://biosash.com/contact-us/">
 <meta name="twitter:image" content="https://ik.imagekit.io/154tnzbemk/kcbto.png?updatedAt=1749373295013">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="KINGCOBRATOTO">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://biosash.com/sea-buckthorn-oil-capsule.html">
+<meta property="og:url" content="https://biosash.com/contact-us/">
 <meta property="og:title" content="KINGCOBRATOTO : Tatanan Baru Situs Toto & Slot Online Beratribut Resmi 2026">
 <meta property="og:description" content="KINGCOBRATOTO membawa konsep tatanan baru situs toto dan slot online yang memiliki atribut resmi 2026 dengan penyajian layanan ramah, akses permainan cepat, dan nyaman digunakan semua perangkat.">
 <meta property="og:image" content="https://ik.imagekit.io/154tnzbemk/kc-lah.jpg">
@@ -718,9 +720,9 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://biosash.com/sea-buckthorn-oil-capsule.html#organization",
+        "@id": "https://biosash.com/contact-us/#organization",
         "name": "KINGCOBRATOTO",
-        "url": "https://biosash.com/sea-buckthorn-oil-capsule.html",
+        "url": "https://biosash.com/contact-us/",
         "logo": "https://ik.imagekit.io/154tnzbemk/kcbto.png?updatedAt=1749373295013",
         "sameAs": [
           "https://facebook.com/KINGCOBRATOTO",
@@ -746,32 +748,32 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://biosash.com/sea-buckthorn-oil-capsule.html#breadcrumb",
+        "@id": "https://biosash.com/contact-us/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "KINGCOBRATOTO",
-            "item": "https://biosash.com/sea-buckthorn-oil-capsule.html-slot"
+            "item": "https://biosash.com/contact-us/-slot"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "SITUS TOTO",
-            "item": "https://biosash.com/sea-buckthorn-oil-capsule.html-toto"
+            "item": "https://biosash.com/contact-us/-toto"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "SLOT ONLINE",
-            "item": "https://biosash.com/sea-buckthorn-oil-capsule.htmllink-gacor"
+            "item": "https://biosash.com/contact-us/link-gacor"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://biosash.com/sea-buckthorn-oil-capsule.htmlKINGCOBRATOTO#product",
+        "@id": "https://biosash.com/contact-us/KINGCOBRATOTO#product",
         "name": "KINGCOBRATOTO",
         "image": [
           "https://ik.imagekit.io/154tnzbemk/kc-lah.jpg"
@@ -783,7 +785,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
         },
         "sku": "Situs-Link-Gacor",
         "category": "KINGCOBRATOTO",
-        "url": "https://biosash.com/sea-buckthorn-oil-capsule.html",
+        "url": "https://biosash.com/contact-us/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -827,7 +829,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://biosash.com/sea-buckthorn-oil-capsule.html",
+          "url": "https://biosash.com/contact-us/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -836,7 +838,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
 
       {
         "@type": "ItemList",
-        "@id": "https://biosash.com/sea-buckthorn-oil-capsule.html#merchant-listing",
+        "@id": "https://biosash.com/contact-us/#merchant-listing",
         "name": "SITUS TOTO",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -845,9 +847,9 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://biosash.com/sea-buckthorn-oil-capsule.htmlsese-toto#product",
+              "@id": "https://biosash.com/contact-us/sese-toto#product",
               "name": "SITUS TOTO",
-              "url": "https://biosash.com/sea-buckthorn-oil-capsule.htmlsese-toto",
+              "url": "https://biosash.com/contact-us/sese-toto",
               "image": "https://ik.imagekit.io/154tnzbemk/kc-lah.jpg",
               "description": "KINGCOBRATOTO membawa konsep tatanan baru situs toto dan slot online yang memiliki atribut resmi 2026 dengan penyajian layanan ramah, akses permainan cepat, dan nyaman digunakan semua perangkat.",
               "brand": {
@@ -862,7 +864,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://biosash.com/sea-buckthorn-oil-capsule.html/sese-toto",
+                "url": "https://biosash.com/contact-us//sese-toto",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -874,9 +876,9 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://biosash.com/sea-buckthorn-oil-capsule.html/TOTO#product",
+              "@id": "https://biosash.com/contact-us//TOTO#product",
               "name": "KINGCOBRATOTO",
-              "url": "https://biosash.com/sea-buckthorn-oil-capsule.html",
+              "url": "https://biosash.com/contact-us/",
               "image": "https://ik.imagekit.io/154tnzbemk/kc-lah.jpg",
               "description": "KINGCOBRATOTO membawa konsep tatanan baru situs toto dan slot online yang memiliki atribut resmi 2026 dengan penyajian layanan ramah, akses permainan cepat, dan nyaman digunakan semua perangkat.",
               "brand": {
@@ -891,7 +893,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://biosash.com/sea-buckthorn-oil-capsule.html",
+                "url": "https://biosash.com/contact-us/",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -903,9 +905,9 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://biosash.com/sea-buckthorn-oil-capsule.html/slot-gacor#product",
+              "@id": "https://biosash.com/contact-us//slot-gacor#product",
               "name": "SITUS TOTO",
-              "url": "https://biosash.com/sea-buckthorn-oil-capsule.htmlslot-gacor",
+              "url": "https://biosash.com/contact-us/slot-gacor",
               "image": "https://ik.imagekit.io/154tnzbemk/kc-lah.jpg",
               "description": "KINGCOBRATOTO membawa konsep tatanan baru situs toto dan slot online yang memiliki atribut resmi 2026 dengan penyajian layanan ramah, akses permainan cepat, dan nyaman digunakan semua perangkat.",
               "brand": {
@@ -920,7 +922,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://biosash.com/sea-buckthorn-oil-capsule.html/Demo-Slot",
+                "url": "https://biosash.com/contact-us//Demo-Slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -938,27 +940,27 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://biosash.com/sea-buckthorn-oil-capsule.html#org",
+      "@id": "https://biosash.com/contact-us/#org",
       "name": "SLOT ONLINE",
-      "url": "https://biosash.com/sea-buckthorn-oil-capsule.html",
+      "url": "https://biosash.com/contact-us/",
       "logo": "https://ik.imagekit.io/154tnzbemk/kc-lah.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://biosash.com/sea-buckthorn-oil-capsule.html#website",
-      "url": "https://biosash.com/sea-buckthorn-oil-capsule.html",
+      "@id": "https://biosash.com/contact-us/#website",
+      "url": "https://biosash.com/contact-us/",
       "name": "SLOT ONLINE",
-      "publisher": { "@id": "https://biosash.com/sea-buckthorn-oil-capsule.html#org" },
+      "publisher": { "@id": "https://biosash.com/contact-us/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://biosash.com/sea-buckthorn-oil-capsule.html?s={search_term_string}",
+        "target": "https://biosash.com/contact-us/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://biosash.com/sea-buckthorn-oil-capsule.html#app",
+      "@id": "https://biosash.com/contact-us/#app",
       "name": "SLOT ONLINE",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1118,7 +1120,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://biosash.com/contact-us/">
         <img src="https://ik.imagekit.io/154tnzbemk/kcbto.png?updatedAt=1749373295013" alt="" width="200" height="56"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1406,7 +1408,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
            KINGCOBRATOTO
             </span>
@@ -1423,7 +1425,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS TOTO
             </span>
@@ -1437,7 +1439,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT ONLINE
             </span>
@@ -1451,7 +1453,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS TOTO RESMI
             </span>
@@ -1465,7 +1467,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT ONLINE RESMI
             </span>
@@ -1479,7 +1481,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS SLOT
             </span>
@@ -1512,7 +1514,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="DAFTAR TOTO" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="TOTO LOGIN. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="DAFTAR TOTO" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="TOTO LOGIN. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://biosash.com/contact-us/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1520,10 +1522,10 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://biosash.com/sea-buckthorn-oil-capsule.html" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+         <a data-linkinfo="https://biosash.com/contact-us/" href="https://biosash.com/contact-us/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://biosash.com/contact-us/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1546,7 +1548,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://biosash.com/contact-us/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1596,14 +1598,14 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://biosash.com/sea-buckthorn-oil-capsule.html"
+              href="https://biosash.com/contact-us/"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://biosash.com/sea-buckthorn-oil-capsule.html'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://biosash.com/contact-us/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://biosash.com/contact-us/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1619,7 +1621,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://biosash.com/contact-us/" role="menuitem">
               Slot
             </a>
            </div>
@@ -1651,7 +1653,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://biosash.com/contact-us/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2199,10 +2201,10 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://biosash.com/sea-buckthorn-oil-capsule.html" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://biosash.com/contact-us/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://biosash.com/sea-buckthorn-oil-capsule.html" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://biosash.com/contact-us/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2704,7 +2706,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://biosash.com/contact-us/">
              Add to cart
             </a>
            </div>
@@ -2864,7 +2866,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://biosash.com/sea-buckthorn-oil-capsule.html" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://biosash.com/contact-us/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4267,7 +4269,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://biosash.com/sea-buckthorn-oil-capsule.html" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://biosash.com/contact-us/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6169,7 +6171,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
 <!-- Article Content -->
 <div class="highlight-box">
 <p style="text-align: justify;"><p style="text-align: justify;">
-		<a href="https://biosash.com/sea-buckthorn-oil-capsule.html"><span style="color:#a31100">KINGCOBRATOTO</span></a> adalah situs toto slot online dan togel resmi terpercaya 2026 yang menghadirkan permainan lengkap, peluang menang besar, serta bonus menarik setiap hari. Nikmati pengalaman bermain aman, cepat, dan nyaman dengan layanan profesional terbaik untuk semua pemain Indonesia.</p>
+		<a href="https://biosash.com/contact-us/"><span style="color:#a31100">KINGCOBRATOTO</span></a> adalah situs toto slot online dan togel resmi terpercaya 2026 yang menghadirkan permainan lengkap, peluang menang besar, serta bonus menarik setiap hari. Nikmati pengalaman bermain aman, cepat, dan nyaman dengan layanan profesional terbaik untuk semua pemain Indonesia.</p>
 <p style="text-align: justify;"><p style="text-align: justify;">Didukung dengan sistem keamanan modern dan teknologi terkini, KINGCOBRATOTO memastikan setiap transaksi berjalan lancar dan terlindungi. Proses deposit dan withdraw yang cepat membuat pemain tidak perlu menunggu lama untuk menikmati kemenangan. Selain itu, berbagai pilihan permainan slot gacor dan pasaran togel terlengkap siap memberikan pengalaman bermain yang seru setiap saat.</p>		
 <p style="text-align: justify;"><p style="text-align: justify;">KINGCOBRATOTO juga menyediakan layanan customer service 24 jam yang siap membantu kapan saja. Dengan berbagai promo menarik, bonus melimpah, dan event spesial setiap harinya, KINGCOBRATOTO menjadi pilihan tepat bagi para pecinta slot online dan togel yang menginginkan keuntungan maksimal serta hiburan tanpa batas.</p>			
         </div>
@@ -6396,7 +6398,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
      <div class="breadcrumb__inner">
       <ul class="breadcrumb__path" role="list">
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://biosash.com/contact-us/">
          <span class="breadcrumb__text-desktop">
           KINGCOBRATOTO <span style="margin-left: 15px;">></span>
          </span>
@@ -6410,7 +6412,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://biosash.com/contact-us/">
          <span class="breadcrumb__text-desktop">
          SLOT ONLINE <span style="margin-left: 15px;">></span>
          </span>
@@ -6424,7 +6426,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://biosash.com/contact-us/">
          <span class="breadcrumb__text-desktop">
         TOTO SLOT
          </span>
@@ -6499,42 +6501,42 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                    KINGCOBRATOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     SITUS TOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     SLOT ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     SITUS SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     SLOT RESMI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     TOTO RESMI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     COBRATOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     COBRA TOTO
                   </a>
                 </li>
@@ -6559,37 +6561,37 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Promo &amp; Cashback Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Bocoran &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Program &amp; Undian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Metode Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Situs Toto Terpercaya
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Toto SLOT ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     SLOT ONLINE Hari Ini
                   </a>
                 </li>
@@ -6615,37 +6617,37 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Winrate 99%
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6686,17 +6688,17 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Program VIP
                   </a>
                 </li>
@@ -6723,22 +6725,22 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Gacor Maxwin
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6762,22 +6764,22 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Tentang TOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Kenapa Pilih Link Gacor
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+                  <a class="footer-category__link" href="https://biosash.com/contact-us/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6797,7 +6799,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+            <a class="footer-language__anchor" href="https://biosash.com/contact-us/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6805,7 +6807,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+            <a class="footer-language__anchor" href="https://biosash.com/contact-us/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8149,7 +8151,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6ì˜ cta ì ìš© ë°©ì‹ì— ë”°ë¼ ë§ˆí¬ì—… ë³€ê²½ */ -->
-       <a class="cta cta--outlined cta--black" href="https://biosash.com/sea-buckthorn-oil-capsule.html" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://biosash.com/contact-us/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8430,7 +8432,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://biosash.com/sea-buckthorn-oil-capsule.html" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://biosash.com/contact-us/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8453,7 +8455,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://biosash.com/sea-buckthorn-oil-capsule.html" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://biosash.com/contact-us/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8531,11 +8533,11 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://biosash.com/contact-us/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://biosash.com/contact-us/" role="button">
         </a>
        </div>
       </div>
@@ -8601,12 +8603,12 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://biosash.com/contact-us/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://biosash.com/contact-us/" role="button">
            Yakin
           </a>
          </div>
@@ -8631,7 +8633,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://biosash.com/sea-buckthorn-oil-capsule.html">
+        <a class="cta cta--contained cta--emphasis" href="https://biosash.com/contact-us/">
          Best&auml;tigen
         </a>
        </div>
@@ -8654,7 +8656,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://biosash.com/sea-buckthorn-oil-capsule.html" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://biosash.com/contact-us/" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -8705,12 +8707,12 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="button">
+          <a class="cta cta--outlined cta--black" href="https://biosash.com/contact-us/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://biosash.com/sea-buckthorn-oil-capsule.html" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://biosash.com/contact-us/" role="button">
            Yakin
           </a>
          </div>
